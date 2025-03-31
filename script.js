@@ -134,7 +134,7 @@ const handleYesClick = () => {
           // All questions answered, show the final message
           overlay.remove();
           modal.remove();
-          question.innerHTML = "Yeahhhhhhhhhhh! Không thể đợi được đến cuối tuần!!";
+          question.innerHTML = "Yeahhhhhhhhhhh! <br> Hẹn gặp lại em vào cuối tuần nhé <br> &#x2665;&#xfe0f;	&#x2665;&#xfe0f;	&#x2665;&#xfe0f;	";
           gif.src = "https://media.giphy.com/media/UMon0fuimoAN9ueUNP/giphy.gif";
 
 
